@@ -35,7 +35,7 @@ class flutter_lernen extends StatelessWidget {
                   Container(
                     height: 27.0,
                     width: 158.0,
-                    color: Colors.cyan,
+                    color: Colors.redAccent,
                   ),
                   Container(
                     height: 27.0,
