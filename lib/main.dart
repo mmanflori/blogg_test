@@ -19,7 +19,11 @@ class flutter_lernen extends StatelessWidget {
       child: Container(
         height: 104.0,
         width: 250.0,
+<<<<<<< HEAD
         color: Colors.lightBlue[50],
+=======
+        color: Colors.white,
+>>>>>>> 4cbb2de3815f22bea31b9f42ca80248ac001fb99
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
